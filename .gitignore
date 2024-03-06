@@ -1,1 +1,5 @@
-*.mkv*.idea/*.mkv*.mepx
+*.idea/*.mkv*.mepx*.mkv
+*.mpex
+.idea/
+*.mkv
+*.mepx
